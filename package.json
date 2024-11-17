@@ -1,0 +1,15 @@
+{
+  "name": "ge-comcom-phonenumbers",
+  "version": "1.0.0",
+  "description": "Scripts to scrape Georgian Communications Commission web service for allocated phone number ranges and find a diff with Google's libphonenumber ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {},
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "google-libphonenumber": "^3.2.38",
+    "libphonenumber-js": "^1.11.14",
+    "puppeteer": "^23.8.0"
+  }
+}

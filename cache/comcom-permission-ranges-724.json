@@ -1,0 +1,50 @@
+[
+  {
+    "area": "თბილისი",
+    "numberCount": "1",
+    "range": "2100XXX",
+    "note": " "
+  },
+  {
+    "area": "ახმეტა",
+    "numberCount": "448",
+    "range": "349 221XXX",
+    "note": " "
+  },
+  {
+    "area": "თელავი",
+    "numberCount": "160",
+    "range": "350 233XXX",
+    "note": " "
+  },
+  {
+    "area": "თელავი",
+    "numberCount": "804",
+    "range": "350 279XXX",
+    "note": " "
+  },
+  {
+    "area": "ბოლნისი",
+    "numberCount": "824",
+    "range": "358 223XXX",
+    "note": " "
+  },
+  {
+    "area": "გარდაბანი",
+    "numberCount": "887",
+    "range": "372 220XXX",
+    "note": " "
+  },
+  {
+    "area": "ხარაგაული",
+    "numberCount": "148",
+    "range": "433 221XXX",
+    "note": " "
+  },
+  {
+    "area": "ზესტაფონი",
+    "numberCount": "231",
+    "range": "492 257XXX",
+    "note": " "
+  }
+]
